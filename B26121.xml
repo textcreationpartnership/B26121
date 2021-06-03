@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A salutation of love from the opening of the springs of eternall life unto the flock of God in bonds or else where scattered upon the earth, but are one in the endlesse life of God from a Freind [sic] to all the upright hearted people of God that wait for the building of distressed Syon, known by the name of Robert Lodge.</title>
+            <author>Lodge, Robert, ca. 1636-1690.</author>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26121</idno><idno type="EEBO-CITATION">10762921</idno>
+  <idno type="VID">204721</idno>
+  <idno type="EEBO-PROQUEST">2240864904</idno>
+  
+            <idno type="STC">Wing L2809</idno>
+            <idno type="OCLC">10762921</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26121)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204721)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1405:52)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A salutation of love from the opening of the springs of eternall life unto the flock of God in bonds or else where scattered upon the earth, but are one in the endlesse life of God from a Freind [sic] to all the upright hearted people of God that wait for the building of distressed Syon, known by the name of Robert Lodge.</title>
+                  <author>Lodge, Robert, ca. 1636-1690.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1665.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Society of Friends --  Pastoral letters and charges.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:204721:1"/>
+            <pb facs="tcp:204721:1"/>
+            <p>A SALUTATION OF LOVE, From the opening of the Springs of Eter<g ref="char:EOLhyphen"/>nall Life, unto the Flock of God in bonds, or else where scattered upon the Earth, but are one in the endlesse life of God.</p>
+            <p>
+               <hi>From a Freind to all the upright hearted peo<g ref="char:EOLhyphen"/>ple of God, that wait for the building of distressed Syon; known by the Name of</hi> ROBERT LODGE.</p>
+            <p>Printed in the Year, 1665.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:204721:2"/>
+            <pb n="3" facs="tcp:204721:2"/>
+            <head>A Salutation of Love from the opening of the Springs of eternall life, unto the Flock of God in Bonds, or elsewhere scattered vpon the earth but are one in the endles life of God, Greeting.</head>
+            <p>
+               <seg rend="decorInit">D</seg>Ear Friends whom the Lord hath visited with the day spring from on high, and unto whom the Lord hath made known his Power, and the armes of his strength for your deliverance, from the deep captivity that your souls lay in, in times past, when there was none to help you, nor to comfort you; when you spent your dayes in mourning, for want of the presence of the Lord: and in that day did the Lord hear your groans, and the sighs of your spirits, and he appeared for your comfort, when you were com<g ref="char:EOLhyphen"/>fortless; and in that day the Lord made known his judgements in you, for the purging of the dross out of you, that way might be made in you for the sweet dispencing forth of his mercies: And since the Lord prepared you for himself, by the work of his own spirit; How hath he let forth himself unto
+<pb n="4" facs="tcp:204721:3"/> you, to the making of your hearts glad, and to the overcomming your souls with the strength of his love? that hath made you to say in secret, Who is like to the Lord? or what is to be compared with his love? and when your hearts were thus dis<g ref="char:EOLhyphen"/>posed of by him for whom you had waited, what was all the worlds glory to you, for this was more to you then all, in whose hearts were opened the sence of the want of him? And now, seeing the Lord hath done such great things for you, it is the pleasure of your God to try your love unto himself, whether you can follow him to the losse of all things in this world, yea or nay, for such a birth the life of God hath been long travelling for, and now they are blessed that can say, This birth is brought forth, in which they can give up all for the enjoyment of the Lord, who hath turned a Wil<g ref="char:EOLhyphen"/>dernesse into a fruitfull Land, and a fruitfull Land into barrennesse in the inward; and he likewise is able to make it so outwardly, for them that beleive and follow him in faithfulnesse unto the end. So my well-beloved in the Lord, who have felt his judgements and mercies in your hearts, who by the same are ingaged to follow the Lord, and hold
+<pb n="5" facs="tcp:204721:3"/> forth your testimonies for his righteous Name, bles<g ref="char:EOLhyphen"/>sed you are, as you abide in the overcoming love of God, by which your hearts have been drawn after the Lord, and after a further enjoyment of his life, who cannot be satisfied without the fresh breakings in of his love into your hearts. Oh blessed are you for ever, however the Lord may dispose of you as to the outward man, the Lord will be unto you as the shaddow of a mighty Rock in a weary land unto you, the begotten of himself by the Word of his power, he will nourish you by the vertue of his own life, and by the sweetnesse of his own love, and this being felt, it makes all easie and delightsome whatsoever, for there is no<g ref="char:EOLhyphen"/>thing to be compared with this love of our God. Therefore arise you Sons and Daughters of the Lord, and shew forth the love that you bear to him, that all may know whose off-spring you are, and how highly you esteem of the goodnesse of God, that you can forsake all for him, and the light of his countenance, which is more to you then all the world. Oh Friends, it is for your sakes that the Lord hath done great things already, and yet will the Lord doe greater things in the Earth for you,
+<pb n="6" facs="tcp:204721:4"/> as in the heavenly life you abide, the Lord will arise for your help in the time of your distress and need; And therefore fear not you the wrath of man, nor the fury of the ungodly, but in the life look unto the Rock of your salvation, and he will beautifie you with the Robes of Righteousness, and with the garments of praises, that all may see and confesse, to the glory of him that hath shined forth of <hi>Syon</hi> this day. And, dear Friends, you that have felt the love of God, in gathering you out of the world, and in preserving of you unto this day, let the kindnesse of the Lord, and the compassion that he hath shewed to you, be an ingagement upon your hearts, to walk with the Lord in faithfulnesse, that as the Lord hath watered your souls with the streams of life, and pure love from day to day, and from time to time, he might still continue the same to you unto the end of your dayes, that your blossome thereby may not wither, but be kept beautifull in the Eyes of the Lord, that his delight may be in you to doe you good, to rejoyce over you in his love, as it hath been in times past, that by the same we might grow further in love with him, and be more and more affected with his glory,
+<pb n="7" facs="tcp:204721:4"/> that however it be permitted to fall out concern<g ref="char:EOLhyphen"/>ing these formes, we may be the Lords, and he the lot of our Inheritance; Then shall we be con<g ref="char:EOLhyphen"/>strained to say, Our lot is falne in good ground: And therefore you tender babes, be not discourag<g ref="char:EOLhyphen"/>ed nor amazed at the face of things, for mightie is the Lord who is with us, and glorious is his arme that doth compasse us about this day, and pure is the food that the Lord is feeding the tender spirited withall, which makes us undervalue all the world, and it's glory, because our hearts are ravished with the love of God, which wonderfully is made ma<g ref="char:EOLhyphen"/>nifest this day; glory be to the name of the Lord for ever, who breaks in upon us by the force of his love dayly, so that our souls is become as watered gardens, through the shouring down of his blessings wherewith my soul is visited at this time, and in which I do visit you all in the life of God, in bonds, or else where who are called to bear wit<g ref="char:EOLhyphen"/>nesse for the Lord, in this trying, but not destroy<g ref="char:EOLhyphen"/>ing day, that the purpose of our God may be ful<g ref="char:EOLhyphen"/>filled, and his determination compleated, that the works of the Lord may bring him praise in the gates of the wicked, who alone is worthy
+<pb n="8" facs="tcp:204721:5"/> of glory and honour for ever and for ever, saith my soul.</p>
+            <closer>
+               <signed>
+                  <hi>From a Freind to all the upright hearted peo<g ref="char:EOLhyphen"/>ple of God, that wait for the building of distressed Syon, known by the name of</hi> Robert Lodge.</signed>
+               <dateline>
+                  <hi>Given forth at the house of Correction in Wake<g ref="char:EOLhyphen"/>field,</hi>
+                  <date>
+                     <hi>the</hi> 9th. <hi>day, the third Moneth,</hi> 1665.</date>
+               </dateline>
+            </closer>
+            <pb facs="tcp:204721:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
